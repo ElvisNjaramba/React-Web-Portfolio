@@ -23,7 +23,7 @@ A modern personal developer portfolio built with **React** and **Framer Motion**
 
 ```bash
 # Clone this repository
-git clone https://github.com/ElvisNjaramba/react-web-portfolio.git
+git clone https://github.com/ElvisNjaramba/React-Web-Portfolio.git
 
 # Navigate to the project folder
 cd react-web-portfolio
